@@ -3,5 +3,5 @@
 #include "submodule.h"
 
 void hello_from_submodule() {
-    printf("Hello from the submodule!\n");
+    printf("Hello from the submodule v2!\n");
 }
